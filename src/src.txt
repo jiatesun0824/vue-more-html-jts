@@ -1,0 +1,35 @@
+卷 工作文件 的文件夹 PATH 列表
+卷序列号为 000F-3D98
+E:.
+│  App.vue
+│  main.js
+│  src.txt
+│  
+├─assets
+│      logo.png
+│      
+├─components
+│      HelloWorld.vue
+│      
+├─pages
+│  ├─v-roam
+│  │  │  v-roam.html
+│  │  │  v-roam.js
+│  │  │  v-roam.vue
+│  │  │  
+│  │  └─components
+│  │      └─roam-message
+│  │              roam-message.vue
+│  │              
+│  └─v-seven
+│      │  v-seven.html
+│      │  v-seven.js
+│      │  v-seven.vue
+│      │  
+│      └─components
+│          └─seven-message
+│                  seven-message.vue
+│                  
+└─router
+        index.js
+        
